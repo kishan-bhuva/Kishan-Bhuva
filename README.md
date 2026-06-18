@@ -13,6 +13,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishan-bhuva&show_icons=true)
+
 ## 📫 Connect With Me
 - LinkedIn
 - GitHub
